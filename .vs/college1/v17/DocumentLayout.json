@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RESHMA\\source\\repos\\college1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RESHMA\\AppData\\Local\\Temp\\y2ttpp44..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RESHMA\\AppData\\Local\\Temp\\lnphqvl0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\controllers\\classschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\controllers\\classschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\migrations\\20240612080719_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\migrations\\20240612080719_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\models\\college1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\models\\college1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|c:\\users\\reshma\\source\\repos\\college1\\college1\\models\\classschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116469FB-A3A3-44D6-A64C-1E695ED45295}|college1\\college1.csproj|solutionrelative:college1\\models\\classschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RESHMA\\AppData\\Local\\Temp\\lnphqvl0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RESHMA\\AppData\\Local\\Temp\\y2ttpp44..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "y2ttpp44..sql ",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\AppData\\Local\\Temp\\y2ttpp44..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\y2ttpp44..sql",
+              "ToolTip": "y2ttpp44..sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-12T18:02:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lnphqvl0..sql ",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\AppData\\Local\\Temp\\lnphqvl0..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\lnphqvl0..sql",
+              "ToolTip": "lnphqvl0..sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-12T18:02:48.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentsController.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\studentsController.cs",
+              "RelativeDocumentMoniker": "college1\\Controllers\\studentsController.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\studentsController.cs",
+              "RelativeToolTip": "college1\\Controllers\\studentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:14:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\RegistrationsController.cs",
+              "RelativeDocumentMoniker": "college1\\Controllers\\RegistrationsController.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\RegistrationsController.cs",
+              "RelativeToolTip": "college1\\Controllers\\RegistrationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:12:30.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "college1\\Controllers\\GradesController.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "college1\\Controllers\\GradesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:11:39.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacultiesController.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\FacultiesController.cs",
+              "RelativeDocumentMoniker": "college1\\Controllers\\FacultiesController.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\FacultiesController.cs",
+              "RelativeToolTip": "college1\\Controllers\\FacultiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:10:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "college1\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "college1\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:09:53.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassSchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\ClassSchedulesController.cs",
+              "RelativeDocumentMoniker": "college1\\Controllers\\ClassSchedulesController.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Controllers\\ClassSchedulesController.cs",
+              "RelativeToolTip": "college1\\Controllers\\ClassSchedulesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:08:58.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240612080719_initial.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Migrations\\20240612080719_initial.cs",
+              "RelativeDocumentMoniker": "college1\\Migrations\\20240612080719_initial.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Migrations\\20240612080719_initial.cs",
+              "RelativeToolTip": "college1\\Migrations\\20240612080719_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:07:20.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Program.cs",
+              "RelativeDocumentMoniker": "college1\\Program.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Program.cs",
+              "RelativeToolTip": "college1\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:56:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\appsettings.json",
+              "RelativeDocumentMoniker": "college1\\appsettings.json",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\appsettings.json",
+              "RelativeToolTip": "college1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T07:55:48.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\student.cs",
+              "RelativeDocumentMoniker": "college1\\Models\\student.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\student.cs",
+              "RelativeToolTip": "college1\\Models\\student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:22:55.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "college1DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\college1DBContext.cs",
+              "RelativeDocumentMoniker": "college1\\Models\\college1DBContext.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\college1DBContext.cs",
+              "RelativeToolTip": "college1\\Models\\college1DBContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:25:21.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "college1\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Faculty.cs",
+              "RelativeToolTip": "college1\\Models\\Faculty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:25:01.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "college1\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Registration.cs",
+              "RelativeToolTip": "college1\\Models\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "college1\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Grade.cs",
+              "RelativeToolTip": "college1\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:23:26.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "college1\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\Course.cs",
+              "RelativeToolTip": "college1\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:24:47.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClassSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\ClassSchedule.cs",
+              "RelativeDocumentMoniker": "college1\\Models\\ClassSchedule.cs",
+              "ToolTip": "C:\\Users\\RESHMA\\source\\repos\\college1\\college1\\Models\\ClassSchedule.cs",
+              "RelativeToolTip": "college1\\Models\\ClassSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:24:20.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
